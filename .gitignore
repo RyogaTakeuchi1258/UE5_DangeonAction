@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+UE5_DangeonAction/Binaries/
+UE5_DangeonAction/Intermediate/
+UE5_DangeonAction/Saved/
